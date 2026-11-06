@@ -50,8 +50,8 @@
       "day": 7,
       "type": "carousel",
       "format": "Carousel",
-      "title": "Own a restaurant? Do this to your menu tonight",
-      "folder": "07_owner_tonight",
+      "title": "The tip screen is doing math you didn't ask for",
+      "folder": "07_tablet_tip",
       "caption": "captions/day07.txt"
     },
     {
@@ -121,8 +121,8 @@
       "day": 15,
       "type": "carousel",
       "format": "Carousel",
-      "title": "The popular dish that's quietly losing you money",
-      "folder": "15_plowhorse",
+      "title": "What market price really means",
+      "folder": "15_market_price",
       "caption": "captions/day15.txt"
     },
     {
@@ -173,8 +173,8 @@
       "day": 21,
       "type": "carousel",
       "format": "Carousel",
-      "title": "A 5-point menu layout checklist",
-      "folder": "21_layout_checklist",
+      "title": "Who to tip at a hotel, and how much",
+      "folder": "21_hotel_tipping",
       "caption": "captions/day21.txt"
     },
     {
@@ -235,8 +235,8 @@
       "day": 28,
       "type": "carousel",
       "format": "Carousel",
-      "title": "Every dish on your menu is one of these 4",
-      "folder": "28_menu_matrix",
+      "title": "Bringing your own wine without being awkward",
+      "folder": "28_byo_wine",
       "caption": "captions/day28.txt"
     },
     {
