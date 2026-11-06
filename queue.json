@@ -1,238 +1,260 @@
 {
- "timezone": "America/Los_Angeles",
- "ig_id": "17841466730681099",
- "queue": [
-  {
-   "date": "2026-11-06",
-   "day": 2,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Front desk agents can see this the second you walk up",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-07",
-   "day": 3,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Guess the markup: a glass of house wine",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-08",
-   "day": 4,
-   "type": "carousel",
-   "folder": "02_golden_triangle_myth",
-   "caption": "captions/day04.txt",
-   "title": "The menu 'golden triangle' is a myth"
-  },
-  {
-   "date": "2026-11-09",
-   "day": 5,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "What your server did in the 4 minutes you didn't see them",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-10",
-   "day": 6,
-   "type": "carousel",
-   "folder": "06_book_direct",
-   "caption": "captions/day06.txt",
-   "title": "Booking direct vs. a booking site: when each one wins"
-  },
-  {
-   "date": "2026-11-11",
-   "day": 7,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "If you own a restaurant, do this to your menu tonight",
-   "note": "Verified: Cornell/CIA 2009 (Yang, Kimes, Sessarego)"
-  },
-  {
-   "date": "2026-11-12",
-   "day": 8,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "The $95 steak isn't there for you to order",
-   "note": "Concept well documented (anchoring); avoid citing a specific % lift"
-  },
-  {
-   "date": "2026-11-13",
-   "day": 9,
-   "type": "needs_content",
-   "format": "Carousel",
-   "title": "Is the second-cheapest wine really the worst deal?",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-14",
-   "day": 10,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "The 2 words that get late checkout more often",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-15",
-   "day": 11,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Where your tip actually goes",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-16",
-   "day": 12,
-   "type": "carousel",
-   "folder": "12_menu_words",
-   "caption": "captions/day12.txt",
-   "title": "Why menus say 'hand-pulled' and 'grandma's'"
-  },
-  {
-   "date": "2026-11-17",
-   "day": 13,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Quiz: which one has the highest restaurant markup?",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-18",
-   "day": 14,
-   "type": "needs_content",
-   "format": "Carousel",
-   "title": "Resort fees: what they are and how to spot them",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-19",
-   "day": 15,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "The menu item quietly losing you money",
-   "note": "Kasavana-Smith (1982) is standard; no stat needed"
-  },
-  {
-   "date": "2026-11-20",
-   "day": 16,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Why there are no clocks or windows near the bar",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-21",
-   "day": 17,
-   "type": "carousel",
-   "folder": "17_servers_wish",
-   "caption": "captions/day17.txt",
-   "title": "7 things servers wish guests knew"
-  },
-  {
-   "date": "2026-11-22",
-   "day": 18,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Why the hotel price changed while you were looking",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-23",
-   "day": 19,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Do restaurants really reuse bread baskets?",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-11-24",
-   "day": 20,
-   "type": "carousel",
-   "folder": "20_price_endings",
-   "caption": "captions/day20.txt",
-   "title": "Why prices end in .95 (or don't end at all)"
-  },
-  {
-   "date": "2026-11-25",
-   "day": 21,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "3 minutes to a more profitable menu layout",
-   "note": "Verified: Yang 2012, Int. J. Hospitality Mgmt"
-  },
-  {
-   "date": "2026-11-26",
-   "day": 22,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "What 'run of house' means on your booking",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-27",
-   "day": 23,
-   "type": "needs_content",
-   "format": "Carousel",
-   "title": "5 restaurant 'hacks' that don't work",
-   "note": "Fact-check each myth individually"
-  },
-  {
-   "date": "2026-11-28",
-   "day": 24,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "The busiest 15 minutes in a restaurant",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-29",
-   "day": 25,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Why the specials are read out loud",
-   "note": "Opinion/experience - no stat needed"
-  },
-  {
-   "date": "2026-11-30",
-   "day": 26,
-   "type": "carousel",
-   "folder": "26_when_to_book",
-   "caption": "captions/day26.txt",
-   "title": "The best time to book a hotel (it depends)"
-  },
-  {
-   "date": "2026-12-01",
-   "day": 27,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Guess what this $14 cocktail costs to make",
-   "note": "CHECK before posting: confirm with a current source"
-  },
-  {
-   "date": "2026-12-02",
-   "day": 28,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "Your menu has a 'sour spot'",
-   "note": "Verified: Yang 2012, Int. J. Hospitality Mgmt"
-  },
-  {
-   "date": "2026-12-03",
-   "day": 29,
-   "type": "carousel",
-   "folder": "29_host_stand",
-   "caption": "captions/day29.txt",
-   "title": "Why being kind to the host stand pays off"
-  },
-  {
-   "date": "2026-12-04",
-   "day": 30,
-   "type": "needs_content",
-   "format": "Reel",
-   "title": "30 days of secrets: which one surprised you most?",
-   "note": "Opinion/experience - no stat needed"
-  }
- ]
+  "timezone": "America/Los_Angeles",
+  "ig_id": "17841466730681099",
+  "queue": [
+    {
+      "date": "2026-11-06",
+      "day": 2,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "3 things that help at hotel check-in",
+      "folder": "02_check_in",
+      "caption": "captions/day02.txt"
+    },
+    {
+      "date": "2026-11-07",
+      "day": 3,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Guess the markup: a glass of house wine",
+      "folder": "03_wine_glass",
+      "caption": "captions/day03.txt"
+    },
+    {
+      "date": "2026-11-08",
+      "day": 4,
+      "type": "carousel",
+      "folder": "02_golden_triangle_myth",
+      "caption": "captions/day04.txt",
+      "title": "The menu 'golden triangle' is a myth"
+    },
+    {
+      "date": "2026-11-09",
+      "day": 5,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "What your server did in the 4 minutes you didn't see them",
+      "folder": "05_four_minutes",
+      "caption": "captions/day05.txt"
+    },
+    {
+      "date": "2026-11-10",
+      "day": 6,
+      "type": "carousel",
+      "folder": "06_book_direct",
+      "caption": "captions/day06.txt",
+      "title": "Booking direct vs. a booking site: when each one wins"
+    },
+    {
+      "date": "2026-11-11",
+      "day": 7,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Own a restaurant? Do this to your menu tonight",
+      "folder": "07_owner_tonight",
+      "caption": "captions/day07.txt"
+    },
+    {
+      "date": "2026-11-12",
+      "day": 8,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "The $95 steak isn't there for you to order",
+      "folder": "08_decoy_steak",
+      "caption": "captions/day08.txt"
+    },
+    {
+      "date": "2026-11-13",
+      "day": 9,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "The second-cheapest wine isn't a rip-off",
+      "folder": "09_second_cheapest",
+      "caption": "captions/day09.txt"
+    },
+    {
+      "date": "2026-11-14",
+      "day": 10,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "How to actually get late checkout",
+      "folder": "10_late_checkout",
+      "caption": "captions/day10.txt"
+    },
+    {
+      "date": "2026-11-15",
+      "day": 11,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Where your tip actually goes",
+      "folder": "11_where_tip_goes",
+      "caption": "captions/day11.txt"
+    },
+    {
+      "date": "2026-11-16",
+      "day": 12,
+      "type": "carousel",
+      "folder": "12_menu_words",
+      "caption": "captions/day12.txt",
+      "title": "Why menus say 'hand-pulled' and 'grandma's'"
+    },
+    {
+      "date": "2026-11-17",
+      "day": 13,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Which item has the biggest restaurant markup?",
+      "folder": "13_markup_quiz",
+      "caption": "captions/day13.txt"
+    },
+    {
+      "date": "2026-11-18",
+      "day": 14,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Resort fees can't hide anymore",
+      "folder": "14_resort_fees",
+      "caption": "captions/day14.txt"
+    },
+    {
+      "date": "2026-11-19",
+      "day": 15,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "The popular dish that's quietly losing you money",
+      "folder": "15_plowhorse",
+      "caption": "captions/day15.txt"
+    },
+    {
+      "date": "2026-11-20",
+      "day": 16,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Why your server asks still or sparkling",
+      "folder": "16_still_or_sparkling",
+      "caption": "captions/day16.txt"
+    },
+    {
+      "date": "2026-11-21",
+      "day": 17,
+      "type": "carousel",
+      "folder": "17_servers_wish",
+      "caption": "captions/day17.txt",
+      "title": "7 things servers wish guests knew"
+    },
+    {
+      "date": "2026-11-22",
+      "day": 18,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Why the hotel price changed while you were looking",
+      "folder": "18_price_changed",
+      "caption": "captions/day18.txt"
+    },
+    {
+      "date": "2026-11-23",
+      "day": 19,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Do restaurants reuse the bread basket?",
+      "folder": "19_bread_basket",
+      "caption": "captions/day19.txt"
+    },
+    {
+      "date": "2026-11-24",
+      "day": 20,
+      "type": "carousel",
+      "folder": "20_price_endings",
+      "caption": "captions/day20.txt",
+      "title": "Why prices end in .95 (or don't end at all)"
+    },
+    {
+      "date": "2026-11-25",
+      "day": 21,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "A 5-point menu layout checklist",
+      "folder": "21_layout_checklist",
+      "caption": "captions/day21.txt"
+    },
+    {
+      "date": "2026-11-26",
+      "day": 22,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Hotel booking jargon, decoded",
+      "folder": "22_booking_jargon",
+      "caption": "captions/day22.txt"
+    },
+    {
+      "date": "2026-11-27",
+      "day": 23,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "3 restaurant facts that aren't true",
+      "folder": "23_three_myths",
+      "caption": "captions/day23.txt"
+    },
+    {
+      "date": "2026-11-28",
+      "day": 24,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "The busiest 15 minutes in a restaurant",
+      "folder": "24_busiest_15",
+      "caption": "captions/day24.txt"
+    },
+    {
+      "date": "2026-11-29",
+      "day": 25,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Why the specials are read out loud",
+      "folder": "25_specials",
+      "caption": "captions/day25.txt"
+    },
+    {
+      "date": "2026-11-30",
+      "day": 26,
+      "type": "carousel",
+      "folder": "26_when_to_book",
+      "caption": "captions/day26.txt",
+      "title": "The best time to book a hotel (it depends)"
+    },
+    {
+      "date": "2026-12-01",
+      "day": 27,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "How to ask for a better table",
+      "folder": "27_better_table",
+      "caption": "captions/day27.txt"
+    },
+    {
+      "date": "2026-12-02",
+      "day": 28,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Every dish on your menu is one of these 4",
+      "folder": "28_menu_matrix",
+      "caption": "captions/day28.txt"
+    },
+    {
+      "date": "2026-12-03",
+      "day": 29,
+      "type": "carousel",
+      "folder": "29_host_stand",
+      "caption": "captions/day29.txt",
+      "title": "Why being kind to the host stand pays off"
+    },
+    {
+      "date": "2026-12-04",
+      "day": 30,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "30 secrets later: what surprised you most?",
+      "folder": "30_thirty_days",
+      "caption": "captions/day30.txt"
+    }
+  ]
 }
