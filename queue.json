@@ -144,6 +144,15 @@
     },
     {
       "date": "2026-11-22",
+      "day": 31,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "The best gift for a food person isn't a thing",
+      "folder": "31_gift_experience",
+      "caption": "captions/day31.txt"
+    },
+    {
+      "date": "2026-11-23",
       "day": 18,
       "type": "carousel",
       "format": "Carousel",
@@ -152,7 +161,7 @@
       "caption": "captions/day18.txt"
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "day": 19,
       "type": "carousel",
       "format": "Carousel",
@@ -161,7 +170,7 @@
       "caption": "captions/day19.txt"
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "day": 20,
       "type": "carousel",
       "folder": "20_price_endings",
@@ -169,7 +178,7 @@
       "title": "Why prices end in .95 (or don't end at all)"
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "day": 21,
       "type": "carousel",
       "format": "Carousel",
@@ -178,7 +187,16 @@
       "caption": "captions/day21.txt"
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
+      "day": 32,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Read the bonus gift card first",
+      "folder": "32_bonus_cards",
+      "caption": "captions/day32.txt"
+    },
+    {
+      "date": "2026-11-28",
       "day": 22,
       "type": "carousel",
       "format": "Carousel",
@@ -187,7 +205,7 @@
       "caption": "captions/day22.txt"
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-29",
       "day": 23,
       "type": "carousel",
       "format": "Carousel",
@@ -196,7 +214,16 @@
       "caption": "captions/day23.txt"
     },
     {
-      "date": "2026-11-28",
+      "date": "2026-11-30",
+      "day": 33,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "Booking the holiday dinner? Ask four things",
+      "folder": "33_group_dinner",
+      "caption": "captions/day33.txt"
+    },
+    {
+      "date": "2026-12-01",
       "day": 24,
       "type": "carousel",
       "format": "Carousel",
@@ -205,7 +232,7 @@
       "caption": "captions/day24.txt"
     },
     {
-      "date": "2026-11-29",
+      "date": "2026-12-02",
       "day": 25,
       "type": "carousel",
       "format": "Carousel",
@@ -214,7 +241,7 @@
       "caption": "captions/day25.txt"
     },
     {
-      "date": "2026-11-30",
+      "date": "2026-12-03",
       "day": 26,
       "type": "carousel",
       "folder": "26_when_to_book",
@@ -222,7 +249,7 @@
       "title": "The best time to book a hotel (it depends)"
     },
     {
-      "date": "2026-12-01",
+      "date": "2026-12-04",
       "day": 27,
       "type": "carousel",
       "format": "Carousel",
@@ -231,7 +258,7 @@
       "caption": "captions/day27.txt"
     },
     {
-      "date": "2026-12-02",
+      "date": "2026-12-05",
       "day": 28,
       "type": "carousel",
       "format": "Carousel",
@@ -240,7 +267,16 @@
       "caption": "captions/day28.txt"
     },
     {
-      "date": "2026-12-03",
+      "date": "2026-12-06",
+      "day": 34,
+      "type": "carousel",
+      "format": "Carousel",
+      "title": "A $100 gift card doesn't cover a $100 dinner",
+      "folder": "34_gift_card_math",
+      "caption": "captions/day34.txt"
+    },
+    {
+      "date": "2026-12-07",
       "day": 29,
       "type": "carousel",
       "folder": "29_host_stand",
@@ -248,7 +284,7 @@
       "title": "Why being kind to the host stand pays off"
     },
     {
-      "date": "2026-12-04",
+      "date": "2026-12-08",
       "day": 30,
       "type": "carousel",
       "format": "Carousel",
