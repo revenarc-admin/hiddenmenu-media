@@ -1,0 +1,1 @@
+The host decides where you sit, how long you wait, and which server you get.
